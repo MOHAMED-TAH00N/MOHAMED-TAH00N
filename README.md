@@ -1,70 +1,147 @@
-<div align="center" width="50%">
+<div align="center">
 
-<!-- Header GIF -->
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%" /><br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%" /><br>
+<h1>👋 Hi, I'm Mohamed Mahmoud Tahoon</h1>
+<h3>Data Scientist | Machine Learning Engineer</h3>
 
-<details>
-  <summary>🎧 Busy coding & vibing to:</summary>
-  [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul)
-</details>
+📍 Cairo, Egypt  
+📧 mohammedtahoon346@gmail.com | 📞 +20 1019214885  
 
-<!-- Profile Views -->
-![Profile Views](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange)
-
-<!-- Telegram -->
-[![Telegram](https://img.shields.io/badge/SP-XD-grey?style=flat&logo=telegram)](https://t.me/spxd007)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)]
 
 </div>
 
 ---
 
-## 🛠 Tools I Use
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-00599C?style=flat&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=flat&logo=neovim&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+## 🚀 Professional Summary
+
+Results-driven **Data Scientist** with **2.5+ years of hands-on experience** in machine learning, predictive modeling, and end-to-end data pipelines.  
+Currently pursuing a **B.Sc. in Artificial Intelligence** with strong academic performance (**GPA 3.65/4.0**).
+
+Experienced in:
+- Building scalable ML solutions  
+- Data preprocessing & feature engineering  
+- Model evaluation & deployment  
+- Computer Vision, NLP, and Big Data  
+
+Passionate about turning **complex data into actionable business insights**.
 
 ---
 
-## 👨‍💻 About Me
-- I’m currently learning **Frappe**  
-- I love exploring **GNU/Linux**  
-- Ask me about **PC building, Movies, or anything tech**  
-- Fun fact: Banging your head against a wall for 1 hour burns **150 calories**  
+## 🎓 Education
+
+**B.Sc. in Artificial Intelligence**  
+Delta University — Egypt  
+📅 2022 – 2026  
+🎯 GPA: **3.65 / 4.0**
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Experience & Training
+
+### **Digital Egypt Pioneers Program (DEPI)**  
+**AI & Data Science – Microsoft ML Engineer Track**  
+📅 Jul 2024 – Nov 2024  
+
+- Awarded by **MCIT – Egypt**
+- Industry-aligned ML & AI training
+- Microsoft Machine Learning framework
+- Preparation for AI, cloud & data roles
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python)
+![SQL](https://img.shields.io/badge/SQL-orange?style=flat)
+![Java](https://img.shields.io/badge/Java-red?style=flat)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat)
+
+### 📊 Data & ML
+- Pandas, NumPy, PySpark  
+- Data Cleaning & Feature Engineering  
+- Supervised & Unsupervised Learning  
+- Model Evaluation (ROC-AUC, F1, Precision, Recall)  
+- GridSearchCV & RandomSearchCV  
+
+### 🧠 Deep Learning
+- TensorFlow, Keras, PyTorch  
+- CNNs, RNNs, ANNs  
+
+### 📈 Visualization
+- Matplotlib, Seaborn  
+
+### 🧰 Tools & Frameworks
+- Scikit-learn, OpenCV, Hugging Face  
+- Flask, MLflow  
+- MySQL, MongoDB  
+
+---
+
+## 📜 Certifications
+
+- **SQL: A Practical Introduction for Querying Databases** – IBM (May 2023)  
+- **AI & Data Science – Microsoft ML Engineer Track** – DEPI (Nov 2024)  
+- **Supervised ML: Regression & Classification** – Coursera (Dec 2024)  
+
+---
+
+## 📂 Projects
+
+### 🗑️ Smart Waste Sorting System (Computer Vision)
+- AI-based waste classification into 3 categories  
+- Dataset creation & labeling  
+- Tools: Python, OpenCV  
+
+### 🤰 Stages of Labor & Birth Prediction
+- Random Forest achieved best performance  
+- Integrated educational chatbot  
+- Tools: Pandas, NumPy, Scikit-learn, SMOTE  
+
+### 💳 Fraud Detection System
+- 97% accuracy using optimized Decision Tree  
+- Real-time alert deployment  
+
+### 🏠 Housing Price Prediction (Kaggle)
+- Advanced preprocessing & feature selection  
+- Models: XGBoost, Random Forest  
+
+### 🚢 Titanic Survival Prediction
+- ML-based survival classification  
+
+### 🩺 Diabetes Prediction & Diagnosis
+- Medical data-based prediction system  
+
+---
+
+## 🌍 Languages
+
+- 🇦🇪 Arabic: Native  
+- 🇬🇧 English: Proficient  
+
+---
+
+## 🤝 Soft Skills
+
+- Communication & Data Storytelling  
+- Problem Solving  
+- Business Acumen  
+- Team Collaboration  
+- Critical Thinking  
+- Time Management  
+
+---
+
+## ⚡ Fun Fact
+
+> Turning data into decisions is my favorite kind of problem-solving 😄  
+
+---
+
 <div align="center">
-  <a href="https://github.com/SP-XD">
-    <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-    <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-    <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
-  </a>
-</div>
 
-<details>
-  <summary>More stats</summary>
-  <img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg">
-</details>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
----
-
-## ⚡ Code Cycle
-<div align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/>
 </div>
