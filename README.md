@@ -1,147 +1,63 @@
-<div align="center">
+<div align="center" width="50%">
 
-<h1>👋 Hi, I'm Mohamed Mahmoud Tahoon</h1>
-<h3>Data Scientist | Machine Learning Engineer</h3>
+<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="Hello Coders" width="60%"/> <br>
+<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="Workspace"  width="40%"/><br> 
 
-📍 Cairo, Egypt  
-📧 mohammedtahoon346@gmail.com | 📞 +20 1019214885  
+<details>
+<p><strong> <summary> Busy coding & analyzing data to : </summary> </strong></p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)]
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul)
+
+</details>
+
+![Profile Views](https://komarev.com/ghpvc/?username=MohamedTahoon&style=flat&color=orange)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMohamedTahoon&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)](https://github.com/MohamedTahoon)
+[![telegram badge](https://img.shields.io/badge/MohamedTahoon-grey?style=flat&logo=telegram)](https://t.me/spxd007) <br>
 
 </div>
 
 ---
 
-## 🚀 Professional Summary
+### 🛠 Tools I Use
 
-Results-driven **Data Scientist** with **2.5+ years of hands-on experience** in machine learning, predictive modeling, and end-to-end data pipelines.  
-Currently pursuing a **B.Sc. in Artificial Intelligence** with strong academic performance (**GPA 3.65/4.0**).
-
-Experienced in:
-- Building scalable ML solutions  
-- Data preprocessing & feature engineering  
-- Model evaluation & deployment  
-- Computer Vision, NLP, and Big Data  
-
-Passionate about turning **complex data into actionable business insights**.
-
----
-
-## 🎓 Education
-
-**B.Sc. in Artificial Intelligence**  
-Delta University — Egypt  
-📅 2022 – 2026  
-🎯 GPA: **3.65 / 4.0**
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-F7F7F7?style=flat&logo=matplotlib&logoColor=black)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 🏆 Experience & Training
+### About Me
 
-### **Digital Egypt Pioneers Program (DEPI)**  
-**AI & Data Science – Microsoft ML Engineer Track**  
-📅 Jul 2024 – Nov 2024  
-
-- Awarded by **MCIT – Egypt**
-- Industry-aligned ML & AI training
-- Microsoft Machine Learning framework
-- Preparation for AI, cloud & data roles
-
----
-
-## 🛠️ Technical Skills
-
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python)
-![SQL](https://img.shields.io/badge/SQL-orange?style=flat)
-![Java](https://img.shields.io/badge/Java-red?style=flat)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat)
-
-### 📊 Data & ML
-- Pandas, NumPy, PySpark  
-- Data Cleaning & Feature Engineering  
-- Supervised & Unsupervised Learning  
-- Model Evaluation (ROC-AUC, F1, Precision, Recall)  
-- GridSearchCV & RandomSearchCV  
-
-### 🧠 Deep Learning
-- TensorFlow, Keras, PyTorch  
-- CNNs, RNNs, ANNs  
-
-### 📈 Visualization
-- Matplotlib, Seaborn  
-
-### 🧰 Tools & Frameworks
-- Scikit-learn, OpenCV, Hugging Face  
-- Flask, MLflow  
-- MySQL, MongoDB  
-
----
-
-## 📜 Certifications
-
-- **SQL: A Practical Introduction for Querying Databases** – IBM (May 2023)  
-- **AI & Data Science – Microsoft ML Engineer Track** – DEPI (Nov 2024)  
-- **Supervised ML: Regression & Classification** – Coursera (Dec 2024)  
-
----
-
-## 📂 Projects
-
-### 🗑️ Smart Waste Sorting System (Computer Vision)
-- AI-based waste classification into 3 categories  
-- Dataset creation & labeling  
-- Tools: Python, OpenCV  
-
-### 🤰 Stages of Labor & Birth Prediction
-- Random Forest achieved best performance  
-- Integrated educational chatbot  
-- Tools: Pandas, NumPy, Scikit-learn, SMOTE  
-
-### 💳 Fraud Detection System
-- 97% accuracy using optimized Decision Tree  
-- Real-time alert deployment  
-
-### 🏠 Housing Price Prediction (Kaggle)
-- Advanced preprocessing & feature selection  
-- Models: XGBoost, Random Forest  
-
-### 🚢 Titanic Survival Prediction
-- ML-based survival classification  
-
-### 🩺 Diabetes Prediction & Diagnosis
-- Medical data-based prediction system  
-
----
-
-## 🌍 Languages
-
-- 🇦🇪 Arabic: Native  
-- 🇬🇧 English: Proficient  
-
----
-
-## 🤝 Soft Skills
-
-- Communication & Data Storytelling  
-- Problem Solving  
-- Business Acumen  
-- Team Collaboration  
-- Critical Thinking  
-- Time Management  
-
----
-
-## ⚡ Fun Fact
-
-> Turning data into decisions is my favorite kind of problem-solving 😄  
+- <img alt="GIF" src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="25" /> &nbsp; I’m a **Data Scientist** passionate about **Machine Learning, AI, and Data Analysis**.<br>
+- <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="25" /> &nbsp; Exploring **data-driven solutions** and building **predictive models**.<br>
+- <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="25" /> &nbsp; Ask me about **Python, AI projects, or Data Visualization**.<br>
+- <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="25" /> &nbsp; Connect on Telegram: **[SP-XD](https://t.me/spxd007)**<br>
 
 ---
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
+<a href="https://github.com/MohamedTahoon">
+<img src="https://github-readme-stats.vercel.app/api?username=MohamedTahoon&show_icons=true&theme=radical" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedTahoon&layout=compact&theme=radical" width="49%"/>
+</a>
 </div>
+
+---
+
+### Code Cycle
+
+<img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="10%" alt="Data Cleaning"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="10%" alt="Model Training"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="10%" alt="Deploying Model"/>
+
