@@ -1,48 +1,72 @@
 <div align="center" width="50%">
 
 <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="Hello Coders" width="60%"/> <br>
-<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="Workspace"  width="40%"/><br> 
+<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" alt="Workspace" width="40%"/><br> 
 
 <details>
-<p><strong> <summary> Busy coding & analyzing data to : </summary> </strong></p>
+<p><strong> <summary>🎧 Busy coding & vibing to : </summary> </strong></p>
 
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul)
 
 </details>
 
+📍 Cairo, Egypt  
+📧 mohammedtahoon346@gmail.com  
+📞 +20 01019214885  
+[LinkedIn](https://www.linkedin.com/in/mohamedtahoon/)  
+
 ![Profile Views](https://komarev.com/ghpvc/?username=MohamedTahoon&style=flat&color=orange)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMohamedTahoon&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)](https://github.com/MohamedTahoon)
-[![telegram badge](https://img.shields.io/badge/MohamedTahoon-grey?style=flat&logo=telegram)](https://t.me/spxd007) <br>
 
 </div>
 
 ---
 
-### 🛠 Tools I Use
+## 🎓 Education
+
+**B.Sc. in Artificial Intelligence**  
+
+---
+
+## 🛠 Skills & Tools
+
+**Programming Languages:** Python, SQL, Java/Scala  
+**Databases:** MySQL, MongoDB  
+**Data Manipulation & Processing:** Pandas, NumPy, PySpark, Data Cleaning, Feature Engineering  
+**Machine Learning:** Supervised & Unsupervised Learning  
+**Model Evaluation:** Cross-validation, GridSearchCV, RandomSearchCV, Precision, Recall, F1-score, ROC-AUC  
+**Deep Learning:** TensorFlow, Keras, PyTorch, CNNs, RNNs, ANNs  
+**Data Visualization:** Matplotlib, Seaborn  
+**Math & Stats:** Probability, Linear Algebra, Calculus  
+**MLOps & Deployment:** Model Monitoring, Flask, MLflow  
+**Tools & Frameworks:** Scikit-learn, OpenCV, Hugging Face Transformers  
+
+---
+
+### 🔧 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-F7F7F7?style=flat&logo=matplotlib&logoColor=black)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4A8DB7?style=flat)
 
 ---
 
-### About Me
+### 💻 About Me
 
-- <img alt="GIF" src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="25" /> &nbsp; I’m a **Data Scientist** passionate about **Machine Learning, AI, and Data Analysis**.<br>
-- <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="25" /> &nbsp; Exploring **data-driven solutions** and building **predictive models**.<br>
-- <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="25" /> &nbsp; Ask me about **Python, AI projects, or Data Visualization**.<br>
-- <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="25" /> &nbsp; Connect on Telegram: **[SP-XD](https://t.me/spxd007)**<br>
+- <img alt="GIF" src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="25" /> I’m a **Data Scientist** passionate about **Machine Learning, AI, and Data Analysis**.  
+- <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="25" /> I love exploring **data-driven solutions** and building **predictive models**.  
+- <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="25" /> Ask me about **Python, AI projects, or Data Visualization**.  
+- <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="25" /> Find me on Telegram: **[SP-XD](https://t.me/spxd007)**  
 
 ---
+
+### 📊 GitHub Stats
 
 <div align="center">
 <a href="https://github.com/MohamedTahoon">
@@ -53,11 +77,10 @@
 
 ---
 
-### Code Cycle
+### 🔄 My Code Cycle
 
 <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="10%" alt="Data Cleaning"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="10%" alt="Model Training"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="10%" alt="Deploying Model"/>
-
+&nbsp;&nbsp;
+<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="10%" alt="Model Training"/>
+&nbsp;&nbsp;
+<img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="10%" alt="Deploying Model"/>
